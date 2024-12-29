@@ -1,0 +1,1 @@
+{"name":"https://deploy-preview-244--pvm-debugger.netlify.app/?program=0x00000571498c0e5301","initial-regs":[0,0,0,0,0,0,0,0,0,0,0,0,0],"initial-pc":0,"initial-page-map":[],"initial-memory":[],"initial-gas":20,"program":[0,0,5,113,73,140,14,83,1],"expected-status":"trap","expected-regs":[0,0,0,0,0,0,0,0,0,0,0,0,0],"expected-pc":0,"expected-gas":18,"expected-memory":[]}
